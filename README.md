@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://himelrana.com](https://himelrana.com)
 
-- 📝 I regularly write articles on [https://swe.himelrana.com](https://swe.himelrana.com)
+- 📝 I regularly write articles on [https://blog.himelrana.com](https://blog.himelrana.com)
 
 - 💬 Ask me about **React, Vue, NextJS, Django, Laravel, Codeigniter, Flutter**
 
